@@ -1,0 +1,5 @@
+examples/*
+tests/*
+scripts/*
+tools/*
+src/open_memstream.c
